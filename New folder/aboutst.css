@@ -1,0 +1,10 @@
+body{
+    display: flex;
+}
+.conteiner{
+    display: flex;
+}
+.about-img{
+    margin-top: 123px;
+    margin-left: 80px;
+}
